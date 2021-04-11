@@ -1,0 +1,49 @@
+head {
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
+  }
+  
+  body {
+    background-color: #bac3d6;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  section {
+    -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+    box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+    dispplay: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  section h1 {
+    font-size: 20px;
+  }
+  header {
+    background-image: url('https://cinepop.com.br/wp-content/uploads/2021/02/pokemon-list.jpg'); 
+    background-size: cover;
+    height: 80px;
+    border-radius: 5px;
+  }
+  
+  div {
+    padding: 15px;
+    background-color: #bac3d6;
+    border-radius: 5px;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(-50%);
+    border: 8px solid white;
+  }
